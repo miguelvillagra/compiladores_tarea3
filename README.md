@@ -27,3 +27,4 @@ python main.py
 EJEMPLO:
 
 
+![Captura de pantalla (159)](https://github.com/miguelvillagra/compiladores_tarea3/assets/88117555/04023c50-55ed-44d1-a6b5-8892b23cb873)
