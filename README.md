@@ -24,3 +24,6 @@ Luego de instalar las librerias necesarias, ejecutar el programa con el siguient
 python main.py
 ```
 
+EJEMPLO:
+
+
